@@ -30,13 +30,14 @@
   position: absolute;
   left: 600px;
   top: 50px;
+  
 }
 
 .arrow1 {
   fill: var(--Grey-scale-1000, #000);
   stroke-width: 1px;
   stroke: #161615;
-  margin-right: 2px;
+  margin-left: 400px;
 }
 
 .arrow2 {
@@ -55,40 +56,42 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin: 3px 0px 0px 15px;
 }
 
 .Apparel1 {
   color: var(--Grey-scale-1000, #000);
-
   font-family: Syne;
   font-size: 26px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+  margin: 3px 0px 0px 15px;
 }
 
 .Apparel2 {
   color: var(--Grey-scale-1000, #000);
-
   font-family: Work Sans;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin: 3px 0px 0px 15px;
 }
 
 .Apparel3 {
   color: var(--Grey-scale-1000, #000);
-
   font-family: Work Sans;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin: 3px 0px 0px 15px;
 }
 .newProduct {
   display: flex;
   flex-wrap: wrap;
+  margin-left: 50px;
 }
 .z1 {
   width: 310px;

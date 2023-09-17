@@ -12,7 +12,7 @@
   font-style: normal;
   font-weight: 600;
   line-height: normal;
-  margin: 30px 0px 0px 30px;
+  margin: 30px 0px 0px 100px;
 }
 
 .desc {
@@ -23,7 +23,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin: 0px 0px 0px 30px;
+  margin: 0px 0px 0px 100px;
 }
 
 .name {
@@ -39,7 +39,7 @@
 .line7 {
   background: #fff;
   height: 1px;
-  width: 250px;
+  width: 400px;
   margin-bottom: 6px;
 }
 .contacts {
@@ -47,7 +47,7 @@
 }
 
 .message {
-  margin: 30px 0px 0px 30px;
+  margin: 30px 0px 0px 350px;
 }
 
 .phone {
@@ -58,6 +58,8 @@
   font-style: normal;
   font-weight: 800;
   line-height: 102.6px;
+  margin-left: 100px;
+  
 }
 
 .ellipse {
@@ -68,13 +70,13 @@
   position: absolute;
   stroke-width: 2px;
   stroke: var(--Pimary-colour, #f07e15);
-  left: 550px;
+  left: 690px;
   bottom: 20px;
 }
 
 .send {
   position: absolute;
-  left: 610px;
+  left: 750px;
   bottom: 100px;
   color: var(--Pimary-colour, #f07e15);
   font-family: Work Sans;

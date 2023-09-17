@@ -105,17 +105,17 @@
 }
 .star1 {
   position: absolute;
-  left: 400px;
+  left: 900px;
   top: 100px;
 }
 .boy {
   position: absolute;
-  left: 300px;
+  left: 800px;
   top: 100px;
 }
 .Jacket {
   position: absolute;
-  left: 700px;
+  left: 1200px;
   top: 600px;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .line1 {
-  width: 46%;
+  width: 60%;
   height: 1px;
   background: #fff;
   position: absolute;
@@ -140,13 +140,14 @@
 .star2 {
   position: absolute;
   top: 555px;
-  left: 306px;
+  left: 800px;
 }
 
 .seemore {
   display: flex;
   width: 80px;
   border: 1px solid var(--Grey-scale-000, #fff);
+  margin-left: 5px;
 }
 
 .p9 {

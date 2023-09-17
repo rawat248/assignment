@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+}
+.dropdown-title {
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.list {
+  margin: 3px 0px 0px 100px;
+}

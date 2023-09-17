@@ -1,0 +1,174 @@
+.subheader {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Syne;
+  font-size: 90px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin: auto auto auto 10px;
+}
+
+.line3 {
+  width: 550px;
+  background: var(--Grey-scale-1000, #161615);
+  height: 1px;
+  margin: auto auto auto 0px;
+}
+
+.line4 {
+  display: flex;
+  flex-direction: row;
+}
+
+.subheader1 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.arrow {
+  position: absolute;
+  left: 600px;
+  top: 50px;
+}
+
+.arrow1 {
+  fill: var(--Grey-scale-1000, #000);
+  stroke-width: 1px;
+  stroke: #161615;
+  margin-right: 2px;
+}
+
+.arrow2 {
+  fill: var(--Grey-scale-1000, #000);
+  stroke-width: 1px;
+  stroke: #161615;
+  margin-left: 2px;
+}
+.newProducts {
+  display: flex;
+}
+.Apparel {
+  color: var(--Grey-scale-1000, #000);
+  font-family: Work Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.Apparel1 {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.Apparel2 {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: Work Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.Apparel3 {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: Work Sans;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.newProduct {
+  display: flex;
+  flex-wrap: wrap;
+}
+.z1 {
+  width: 310px;
+  height: 322px;
+  flex-shrink: 0;
+  background: lightgray;
+  margin: 2px;
+  position: relative;
+}
+.group1 {
+  position: absolute;
+  left: 265px;
+  bottom: 2px;
+}
+.z2 {
+  width: 304px;
+  height: 322px;
+  flex-shrink: 0;
+  background: lightgray;
+  margin: 2px;
+  position: relative;
+}
+.group2 {
+  position: absolute;
+  left: 259px;
+  bottom: 1px;
+}
+.z3 {
+  width: 305px;
+  height: 322px;
+  flex-shrink: 0;
+  background: lightgray;
+  margin: 2px;
+  position: relative;
+}
+.group3 {
+  position: absolute;
+  left: 259px;
+  bottom: 1px;
+}
+
+.z4 {
+  width: 304px;
+  height: 322px;
+  flex-shrink: 0;
+  background: lightgray;
+  margin: 2px;
+  position: relative;
+}
+
+.group4 {
+  position: absolute;
+  left: 259px;
+  bottom: 1px;
+}
+.FLORIDA {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.para {
+  color: var(--Greyscale-400, rgba(22, 22, 21, 0.5));
+  font-family: Work Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.rupee {
+  color: var(--Grey-scale-1000, #000);
+
+  font-family: Syne;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
